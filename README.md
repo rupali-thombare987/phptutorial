@@ -20,6 +20,8 @@ author-rupali thombare
 10.git add .  //here  is .(dot) for adding multiple files ready for commit stage <br>
 11. git commit -m "some message"    //record a change using msg <br>
 12.git push origin main  // push code on github and set some update
+13.git init    // git integrated in new folder for that command
+
 
 
 
