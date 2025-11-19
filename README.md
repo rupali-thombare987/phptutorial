@@ -16,9 +16,9 @@ author-rupali thombare
 6. ls -a  //for only check hidden files
 7. clear // clear the terminal
 8. git status //status of changes files
-9.git add  <filename>  // here is add first beacuse ready for commit stage or add new file
-10.git add .  //here  is .(dot) for adding multiple files ready for commit stage 
-11. git commit -m "some message"    //record a change using msg 
+9.git add  <filename>  // here is add first beacuse ready for commit stage or add new file <br>
+10.git add .  //here  is .(dot) for adding multiple files ready for commit stage <br>
+11. git commit -m "some message"    //record a change using msg <br>
 12.git push origin main  // push code on github and set some update
 
 
