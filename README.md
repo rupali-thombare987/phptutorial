@@ -1,2 +1,1 @@
-# phptutorial
-it is only for php exercise
+Here is test file only for testing purpose
