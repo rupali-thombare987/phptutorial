@@ -19,6 +19,9 @@ author-rupali thombare
 9.git add  <filename>  // here is add first beacuse ready for commit stage or add new file
 10.git add .  //here  is .(dot) for adding multiple files ready for commit stage 
 11. git commit -m "some message"    //record a change using msg 
+12.git push origin main  // push code on github and set some update
+
+
 
 
 //end git and github
