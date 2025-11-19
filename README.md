@@ -19,11 +19,18 @@ author-rupali thombare
 9.git add  <filename>  // here is add first beacuse ready for commit stage or add new file <br>
 10.git add .  //here  is .(dot) for adding multiple files ready for commit stage <br>
 11. git commit -m "some message"    //record a change using msg <br>
-12.git push origin main  // push code on github and set some update
+12.git push origin main  // push code on github and set some update   --git push -u origin main
+
 13.git init    // git integrated in new folder for that command
 
+/*remote means repository or folder*/
 
+14.git remote add origin <github link>  //used for upload folder in github
+15.git remote -v   //verify remote for in which repository (folder) working 
+16.git branch   //to check branch
+17.git branch -M main //(to rename branch)
 
+18.git push -u origin main // same as upward upstream same changes push 
 
 
 //end git and github
