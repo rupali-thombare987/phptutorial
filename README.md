@@ -31,6 +31,37 @@ author-rupali thombare
 17.git branch -M main //(to rename branch)
 
 18.git push -u origin main // same as upward upstream same changes push 
+19.git checkout <branch name>  //to navigate(to transfer a another branch)
+20.git checkout -b <new branch name> //to create new branch
+21.git branch -d <branch name> // to delete branch
+
+22. git diff <branch name>  //difference between two branch name
+23.git merge <branch nmae>  // merge two branches
+24.git reset <file name> //go back changes to file after git add .
+25.git reset   // go all file changes
+26.git reset HEAD ~ 1 // means go commited changes back -1 latest git commit -m "m"
+27.git log    //all commit and copy hash form this
+28.git reset <commit hash>  // apply hash and go back to multiple commit
+29. git reset --hard <commit hash> // atta parynt git varun changes gele 
+                   //atta vs   code madun pn changes gayab kr 
+
+
+
+fork:rough copy.
+
+
+
+create PR (pull request)
+.. lets tell others about changes you've pushed to a branch in a repository on github
+
+
+
+//remote to local changes 
+
+pull command
+1.git pull origin main
+  //used to fetch and download content from remote repository and immediately update the local repo to match that content
+
 
 
 //end git and github
